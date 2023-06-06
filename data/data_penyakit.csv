@@ -1,0 +1,37 @@
+Tabel Penyakit,,,
+id penyakit,nama penyakit,treatment/obat,Keluhan
+1,Flu,"-paracetamol
+-ibuprofen
+-cetirizin
+-loratadine
+-guaifenesin
+-CTM","batuk,pilek,panas dalam"
+2,Demam,"Paracetamol
+ibuprofen",panas tinggi
+3,Cacar,"Caladine Lotion.
+Acyclovir Yarindo 200mg.
+Aciclovir Hexpharm 400mg.",ruam pada kulit (berisi air)
+4,Diare,"-loperamide
+-bismuth subsalicylate
+-attapulgite","melilit, pup cair"
+5,Radang Tenggorokan,"-FG Troches Meiji-Nutrimax C&C Syrup
+-Degirol","Tenggorokan sakit. Sakit waktu menelan, Tenggorokan bengkak"
+6,Campak,"-paracetamol
+-ibuprofen
+-naproxen",ruam ruam merah pada kulit
+7,Radang Perut (Muntaber),"-antidiare: loperamide, bismuth subsalicylate, dan attapulgite
+-antimual: ondansetron, domperidon, promethazine, vitamin B-6.
+-antipiretik: paracetamol dan ibuprofen.","mual,pup cair"
+8,Cacingan,"-Mebendazole
+-Albendazole
+-Praziquantel","nyari perut, gatal di anus, mual, muntah"
+9,Pneumonia,"-oseltamivir
+-zanamivir
+-peramivir",terjadi infeksi pada paru-paru
+10,Asma,"-budesonide
+-fluticasone
+-beclomethasone","sesak nafas, batuk, batuk berdahak, lemas"
+11,DBD,"-trolit
+-maltofer
+-tride
+-kalnex","suhu tubuh tinggi, tidak nafsu makan, kepala pusing"
