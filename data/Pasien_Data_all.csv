@@ -1,0 +1,143 @@
+NIK/BPJS,NAMA,JK,Umur,TTL,No.HP,Jaminan Kes (BPJS/Mandiri),Alamat,Poli,Alergi,Nama wali,Keluhan Utama,Suhu(C`),Tekanan Darah (mmHg),Nadi (x/menit),Berat Badan(Kg),Tinggi Badan(cm),BMI (Body Mass Index),Panjang Lahir(cm),Berat Lahir(Kg),Diagnosis,Stunting,Treatment,,
+640194945577,Nurlaila Lessy,P,6,"Tokyo, 9 Mei 2017",83012112306,Mandiri,Jl. Damai,Poli Anak,,,"Tangan keram, badan nyeri, mual, muntah",36.7,110/90,83,53,155,22.1,#N/A,#N/A,"myalgia, Hiperkolestrol, supra cts",Tidak,,,
+784426371042,Agus,L,15,"Ciledug, 9 Oktober 2007",8123478327,BPJS,Jl. Sukadamai,Poli Anak,,,panas tinggi,38.5,105/80,79,60,169,21,#N/A,#N/A,Demam,Tidak,"Paracetamol
+ibuprofen",,
+868159375240,Zain,L,12,"Masohi, 21 Maret 2011",82239327571,BPJS,Jl. Perdamaian,Poli Umum,-,,panas tinggi,37.1,113/85,94,56,178,17.7,#N/A,#N/A,Demam,Ya,"Paracetamol
+ibuprofen",,
+641915658142,Fadil,L,2,"Jakarta, 9 Mei 2021",81224529871,BPJS,Jl. Pasar Minggu,Poli Anak,,,panas tinggi,38.2,100/70,93,13,85,18,50.1,2.7,Demam,Ya,"Paracetamol
+ibuprofen",,
+871452764450,Raihan,L,20,"Rio de Janeiro, 3 September 2002",8123434353,BPJS,Jl. Raya Setiabudhi,Poli Umum,,,"sesak nafas, batuk, batuk berdahak, lemas",35.8,110/90,107,55.1,150,24.5,#N/A,#N/A,Asma,Tidak,"-budesonide
+-fluticasone
+-beclomethasone",,2.5
+689403769534,Budi,L,16,"Aceh, 1 Agustus 2007",8123458282,BPJS,Jl. kewenangan,Poli umum,Alergi seafood,,ruam ruam merah pada kulit,35,115/90,97,50,139,25.9,#N/A,#N/A,Campak,Ya,"-paracetamol
+-ibuprofen
+-naproxen",,
+301871160512,Atma Sitompul,P,15,"Jakarta, 11 Juni 2008",8513736745,BPJS,Jl. Bungur,Poli Anak,,,"melilit, pup cair",37.9,100/70,71,56,142,27.8,#N/A,#N/A,Diare,Ya,"-loperamide
+-bismuth subsalicylate
+-attapulgite",,
+729656566103,Ucok Silalahi,L,13,"Semarang, 9 Januari 2010",8134442973,Mandiri,Jl. Amanah,Poli Anak,,,ruam ruam merah pada kulit,37,103/85,93,80,131,46.6,#N/A,#N/A,Campak,Ya,"-paracetamol
+-ibuprofen
+-naproxen",,
+457976587381,Arfan,L,7,"Solo, 9 Oktober 2021",86317490973,BPJS,Jl. Jujur,Poli Anak,Alergi Kacang,,"melilit, pup cair",36.3,112/96,119,59,133,33.4,#N/A,#N/A,Diare,Ya,"-loperamide
+-bismuth subsalicylate
+-attapulgite",,
+960823713544,Farhan,L,18,"Yogyakarta, 17 Agustus 2004",84950041924,BPJS,Jl. Nasional,Poli Anak,,,terjadi infeksi pada paru-paru,37.2,109/84,80,44,133,24.9,#N/A,#N/A,Pneumonia,Tidak,"-oseltamivir
+-zanamivir
+-peramivir",,
+679626153374,Rizky,L,8,"Bekasi, 16 Mei 2015",83031440004,BPJS,Jl. Pogung Dalangan,Poli Anak,,,ruam ruam merah pada kulit,37,111/73,111,48,151,21.1,#N/A,#N/A,Campak,Tidak,"-paracetamol
+-ibuprofen
+-naproxen",,
+282582422727,Tirta,L,17,"Sleman, 26 Maret 2006",83012772306,BPJS,Jl. Pogung Lor,Poli Anak,,,ruam pada kulit (berisi air),36.2,115/80,86,68,153,29,#N/A,#N/A,Cacar,Ya,"Caladine Lotion.
+Acyclovir Yarindo 200mg.
+Aciclovir Hexpharm 400mg.",,
+805844866172,Sabian,L,1,"Bogor, 18 Juli 2022",83120696786,BPJS,Jl. Selokan Mataram,Poli Anak,,,panas tinggi,38.7,107/80,85,7,70,14.3,50,2.5,Demam,Ya,"Paracetamol
+ibuprofen",,
+748392990676,Damar,L,21,"Depok, 23 Mei 2002",87919738462,BPJS,Jl. Magelang,Poli Umum,Alergi Bulu kucing,,"batuk,pilek,panas dalam",37.6,98/70,93,64,149,28.8,#N/A,#N/A,Flu,Ya,"-paracetamol
+-ibuprofen
+-cetirizin
+-loratadine
+-guaifenesin
+-CTM",,
+630337692464,Dzul,L,21,"Tangerang, 12 Februari 2002",83880458309,BPJS,Jl. Solo,Poli Umum,,,"melilit, pup cair",36.5,110/90,66,61,179,19,#N/A,#N/A,Diare,Tidak,"-loperamide
+-bismuth subsalicylate
+-attapulgite",,
+110323655435,Faiz,L,22,"Ciawi, 10 Maret 2001",88862515071,BPJS,Jl. Ponorogo,Poli Umum,,,"mual,pup cair",36.5,119/88,61,43,174,14.2,#N/A,#N/A,Radang Perut (Muntaber),Ya,"-antidiare: loperamide, bismuth subsalicylate, dan attapulgite
+-antimual: ondansetron, domperidon, promethazine, vitamin B-6.
+-antipiretik: paracetamol dan ibuprofen.",,
+813383841655,Rahull,L,11,"Bantul, 8 November 2011",83378260160,BPJS,Jl. Pangeran Dipenogoro,Poli Anak,,,"mual,pup cair",37.2,123/90,60,38,165,14,#N/A,#N/A,Radang Perut (Muntaber),Ya,"-antidiare: loperamide, bismuth subsalicylate, dan attapulgite
+-antimual: ondansetron, domperidon, promethazine, vitamin B-6.
+-antipiretik: paracetamol dan ibuprofen.",,
+656857461678,Linda,P,17,"Sleman, 2 Januari 2006",87607657255,Mandiri,Jl. Pangeran Assogiri,Poli Anak,,,"batuk,pilek,panas dalam",37.2,90/60,62,57,141,28.7,#N/A,#N/A,Flu,Ya,"-paracetamol
+-ibuprofen
+-cetirizin
+-loratadine
+-guaifenesin
+-CTM",,
+800156101098,Erlius,L,20,"Bekasi, 18 Mei 2003",85838507020,BPJS,Jl. Matahari,Poli Umum,,,"sesak nafas, batuk, batuk berdahak, lemas",36.9,103/80,111,75,179,23.4,#N/A,#N/A,Asma,Tidak,"-budesonide
+-fluticasone
+-beclomethasone",,
+758114003234,Bintang,L,13,"Cikarang, 20 September 2009",86219820203,BPJS,Jl. Surya,Poli Anak,,,panas tinggi,38.5,113/83,119,43,168,15.2,#N/A,#N/A,Demam,Ya,"Paracetamol
+ibuprofen",,
+859226413375,Cahaya Putri,P,16,"Sukabumi, 4 Agustus 2006",87627840220,Mandiri,Jl. Kuningan,Poli Anak,,,panas tinggi,38.1,99/76,120,43,131,25.1,#N/A,#N/A,Demam,Ya,"Paracetamol
+ibuprofen",,
+741476596391,Rebecca,P,15,"Cibinong, 1 Maret 2008",89737269187,BPJS,Jl. Cut Nyak Dien,Poli Anak,,,"sesak nafas, batuk, batuk berdahak, lemas",37.7,111/79,84,41,171,14,#N/A,#N/A,Asma,Ya,"-budesonide
+-fluticasone
+-beclomethasone",,
+760783611714,Dinda,P,20,"Jakarta, 23 Januari 2003",83834403662,BPJS,Jl. Putri melawai,Poli Umum,,,"Tenggorokan sakit. Sakit waktu menelan, Tenggorokan bengkak",36.2,120/90,68,46,145,21.9,#N/A,#N/A,Radang Tenggorokan,Tidak,"-FG Troches Meiji-Nutrimax C&C Syrup
+-Degirol",,
+584745305452,Daipa,L,7,"Sragen, 6 Februari 2016",86805618253,BPJS,Jl. Imam Bonjol,Poli Anak,,,"batuk,pilek,panas dalam",36.1,110/70,105,72,142,35.7,#N/A,#N/A,Flu,Ya,"-paracetamol
+-ibuprofen
+-cetirizin
+-loratadine
+-guaifenesin
+-CTM",,
+820593286101,Rama bin Aldo,L,9,"Banyuwangi, 3 Mei 2014",87488257800,BPJS,Jl. Raya Asawah,Poli Anak,,,ruam pada kulit (berisi air),37.9,104/75,76,39,146,18.3,#N/A,#N/A,Cacar,Ya,"Caladine Lotion.
+Acyclovir Yarindo 200mg.
+Aciclovir Hexpharm 400mg.",,
+146236384349,Putra,L,2,"Sydney, 11 Januari 2021",85686045529,BPJS,Jl. Kuningan Raya XII,Poli Anak,,,"nyari perut, gatal di anus, mual, muntah",37,106/78,111,9,80,14.1,50.1,2.6,Cacingan,Ya,"-Mebendazole
+-Albendazole
+-Praziquantel",,
+715725560581,Izzan bin Gaozhan,L,6,"Sleman, 26 Maret 2015",87125142757,BPJS,Jl. Bangkit Berdiri,Poli Anak,,,panas tinggi,38,103/80,118,36,164,13.4,#N/A,#N/A,Demam,Ya,"Paracetamol
+ibuprofen",,
+340879479390,Putri,P,16,"Kulonprogro, 1 Januari 2007",88297511542,BPJS,Jl. Pemuda Wijaya,Poli Anak,,,"Tenggorokan sakit. Sakit waktu menelan, Tenggorokan bengkak",35.3,100/76,70,46,134,25.6,#N/A,#N/A,Radang Tenggorokan,Ya,"-FG Troches Meiji-Nutrimax C&C Syrup
+-Degirol",,
+143381723257,Faris,L,1,"Busan, 4 Januari 2022",84663030159,BPJS,Jl. Jati Keramat,Poli Anak,,,panas tinggi,38.7,102/80,81,8,75,14.2,50.5,2.5,Demam,Ya,"Paracetamol
+ibuprofen",,
+909046950011,Arvi,L,6,"Cape Town, 24 Februari 2017",88439603236,BPJS,Jl. Pagi Sore,Poli Anak,,,"Tenggorokan sakit. Sakit waktu menelan, Tenggorokan bengkak",35.6,119/83,107,43,174,14.2,#N/A,#N/A,Radang Tenggorokan,Ya,"-FG Troches Meiji-Nutrimax C&C Syrup
+-Degirol",,
+420643177326,Juli Nasyiah,L,5,"Batam, 23 Februari 2018",83857164681,Mandiri,Jl. Manunggal,Poli Anak,,,"nyari perut, gatal di anus, mual, muntah",36.5,97/70,93,68,150,30.2,#N/A,#N/A,Cacingan,Ya,"-Mebendazole
+-Albendazole
+-Praziquantel",,
+227872006454,Ammar,L,11,"Padang, 5 September 2011",81984511045,BPJS,Jl. Dadali,Poli Anak,,,"melilit, pup cair",35.5,110/69,89,38,178,12,#N/A,#N/A,Diare,Ya,"-loperamide
+-bismuth subsalicylate
+-attapulgite",,
+575588255525,M. Ahsan,L,9,"Medan, 13 Desember 2014",88451093755,BPJS,Jl. Merak,Poli Anak,,,terjadi infeksi pada paru-paru,36.4,101/69,101,57,132,32.7,#N/A,#N/A,Pneumonia,Ya,"-oseltamivir
+-zanamivir
+-peramivir",,
+452018708017,Ratih,P,3,"Balikpapan, 2 Januari 2020",84166813622,BPJS,Jl. Radjawali,Poli Anak,,,"Tenggorokan sakit. Sakit waktu menelan, Tenggorokan bengkak",37.9,111/73,81,14,95,15.5,50.6,2.7,Radang Tenggorokan,Ya,"-FG Troches Meiji-Nutrimax C&C Syrup
+-Degirol",,
+137976901849,Annisa,P,19,"Lombok, 17 Agustus 2003",88034125296,BPJS,Jl. Cendrawasih,Poli Umum,,,ruam ruam merah pada kulit,35.2,112/83,119,33,173,11,#N/A,#N/A,Campak,Ya,"-paracetamol
+-ibuprofen
+-naproxen",,
+287671624925,Dewi,P,18,"Denpasar, 18 Desember 2004",81084480098,BPJS,Jl. Melati,Poli Anak,,,ruam ruam merah pada kulit,36.8,108/78,63,77,153,32.9,#N/A,#N/A,Campak,Ya,"-paracetamol
+-ibuprofen
+-naproxen",,
+518658269626,Rahma,P,7,"Ubud, 2 Desember 2015",89975486149,BPJS,Jl. Mawar,Poli Anak,,,"mual,pup cair",37.2,109/69,103,66,167,23.7,#N/A,#N/A,Radang Perut (Muntaber),Tidak,"-antidiare: loperamide, bismuth subsalicylate, dan attapulgite
+-antimual: ondansetron, domperidon, promethazine, vitamin B-6.
+-antipiretik: paracetamol dan ibuprofen.",,
+946883465123,Sintia,P,17,"Palu, 25 April 2006",87586871474,Mandiri,Jl. Keramat,Poli Anak,,,"suhu tubuh tinggi, tidak nafsu makan, kepala pusing",37.5,111/79,120,64,162,24.4,#N/A,#N/A,DBD,Tidak,"-trolit
+-maltofer
+-tride
+-kalnex",,
+853138227300,Citra,P,3,"Soppeng, 2 Juni 2020",87475964558,BPJS,Jl. Sukamaju,Poli Anak,,,ruam pada kulit (berisi air),35.5,100/80,112,12,100,12,50.7,2.5,Cacar,Ya,"Caladine Lotion.
+Acyclovir Yarindo 200mg.
+Aciclovir Hexpharm 400mg.",,
+272895855686,Andi,L,9,"Makassar, 13 Juli 2013",89479655895,BPJS,Jl. Berkah,Poli Anak,,,"mual,pup cair",37.9,120/90,89,56,148,25.6,#N/A,#N/A,Radang Perut (Muntaber),Ya,"-antidiare: loperamide, bismuth subsalicylate, dan attapulgite
+-antimual: ondansetron, domperidon, promethazine, vitamin B-6.
+-antipiretik: paracetamol dan ibuprofen.",,
+847546840354,Arma,L,4,"Cikarang, 20 September 2018",83166435614,BPJS,Jl. Rezeki,Poli Anak,,,"nyari perut, gatal di anus, mual, muntah",36,90/67,99,45,177,14.4,#N/A,#N/A,Cacingan,Ya,"-Mebendazole
+-Albendazole
+-Praziquantel",,
+795724914817,Arka,L,15,"Samarinda, 22 Maret 2008",84889292421,BPJS,Jl. Soekarno,Poli Anak,,,"suhu tubuh tinggi, tidak nafsu makan, kepala pusing",35.7,100/70,119,54,133,30.5,#N/A,#N/A,DBD,Ya,"-trolit
+-maltofer
+-tride
+-kalnex",,
+389822015271,Chandra,L,14,"Palangkaraya, 13 Maret 2009",85422338683,BPJS,Jl. Ir. H. Djuanda,Poli Anak,,,ruam ruam merah pada kulit,35.1,117/83,60,43,168,15.2,#N/A,#N/A,Campak,Ya,"-paracetamol
+-ibuprofen
+-naproxen",,
+272842282875,Ahmad,L,7,"Banjarmasin, 27 November 20015",83859916114,BPJS,Jl. Kaliurang,Poli Anak,,,ruam pada kulit (berisi air),35.2,116/80,108,77,132,44.2,#N/A,#N/A,Cacar,Ya,"Caladine Lotion.
+Acyclovir Yarindo 200mg.
+Aciclovir Hexpharm 400mg.",,
+299591307365,Dyah,P,3,"Indramayu, 4 Oktober 2020",89999935331,BPJS,Jl. Makmur,Poli Anak,,,"sesak nafas, batuk, batuk berdahak, lemas",35.7,102/70,84,12,98,12.5,49.9,2.8,Asma,Ya,"-budesonide
+-fluticasone
+-beclomethasone",,
+595405083380,Pratiwi,P,13,"Sumedang, 6 Januari 2010",86210559650,BPJS,Jl. Pamungkas,Poli Anak,,,"Tenggorokan sakit. Sakit waktu menelan, Tenggorokan bengkak",37.4,104/77,67,78,143,38.1,#N/A,#N/A,Radang Tenggorokan,Ya,"-FG Troches Meiji-Nutrimax C&C Syrup
+-Degirol",,
+175369977799,Kartika,P,2,"Cirebon, 17 Mei 2021",82934204470,BPJS,Jl. Tentram,Poli Anak,,,"melilit, pup cair",35.3,100/76,118,10,90,12.3,50.6,2.5,Diare,Ya,"-loperamide
+-bismuth subsalicylate
+-attapulgite",,
+425980691836,Wulandari,P,14,"Tasikmalaya, 18 April 2009",88881160079,Mandiri,Jl. Sederhana,Poli Anak,,,panas tinggi,38.5,120/70,120,66,154,27.8,#N/A,#N/A,Demam,Ya,"Paracetamol
+ibuprofen",,
+734738036654,Bonny,L,13,"Garut, 2 Januari 2010",81022872880,BPJS,Jl. Sempurna,Poli Anak,Alergi bunga,,"melilit, pup cair",37,100/67,94,78,140,39.8,#N/A,#N/A,Diare,Ya,"-loperamide
+-bismuth subsalicylate
+-attapulgite",,

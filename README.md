@@ -13,4 +13,10 @@ Stunting model is done V
   - deploying
 
 Disease Prediction on develope
-the treatment will be the multi-label with disease
+Disease Prediction model is done V
+  - preprocessing
+  - splitting
+  - training
+  - evaluate, testing
+  - hypertune
+  - deploying
