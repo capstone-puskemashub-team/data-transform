@@ -12,7 +12,8 @@ Stunting model is done V
   - hypertune
   - deploying
 
-Disease Prediction on develope
+Disease Prediction on develope, trying NLP
+
 Disease Prediction model is done V
   - preprocessing
   - splitting
